@@ -2,6 +2,7 @@
 
 ## Reference implementation
 
+* [github.com/scop/bash-completion](https://github.com/scop/bash-completion)
 * [github.com/codecrafters-io/build-your-own-x#build-your-own-search-engine](https://github.com/codecrafters-io/build-your-own-x#build-your-own-search-engine)
 * [jdrouet.github.io/posts/202503161800-search-engine-intro/](https://jdrouet.github.io/posts/202503161800-search-engine-intro/)
     * Building a search engine from scratch, in Rust: introduction
